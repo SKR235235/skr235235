@@ -48,11 +48,71 @@
 
 
 
+# Data Analyst Portfolio
 
+## Overview
+
+Provide a brief overview of your repository and its purpose. Mention that it's a portfolio showcasing your data analysis projects.
+
+## Projects
+
+List and briefly describe the data analysis projects you've worked on. Include links to each project's folder or relevant files.
+
+1. **[Project 1: Analyzing Sales Trends](project1/README.md)**
+   - Description: Briefly describe the project and its objectives.
+   - Technologies Used: List the tools, languages, and libraries used.
+
+2. **[Project 2: Exploratory Data Analysis of Customer Behavior](project2/README.md)**
+   - Description: Provide a short summary of the project and its significance.
+   - Technologies Used: Specify the tools and technologies you used.
+
+## Skills
+
+Highlight the key skills you possess as a data analyst. This could include programming languages, statistical analysis, data visualization, and any relevant tools.
+
+- **Programming Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+
+## Education
+
+Include information about your current academic status, degree pursued, and any relevant coursework.
+
+- **Bachelor of Science in Data Science**
+  - University Name (expected graduation date)
+
+## Certifications
+
+If you have any relevant certifications, list them along with the issuing authority and date.
+
+- **Data Analyst Nanodegree**
+  - Issued by Udacity, Date
+
+## Contact Information
+
+Include your email address or any other preferred method of contact.
+
+- Email: your.email@example.com
+
+## How to Run the Code
+
+Provide instructions on how to run or replicate your data analysis projects. Include any specific dependencies or setup instructions.
+
+## Feedback
+
+Encourage visitors to provide feedback or suggestions. You can include a section for issues or discussions.
+
+## Acknowledgments
+
+If you've collaborated with others or used resources, acknowledge them.
+
+---
+
+<!--
 
 ### Hi there 👋
 
-<!--
+
 **SKR235235/skr235235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
