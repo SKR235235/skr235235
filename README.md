@@ -1,23 +1,28 @@
+Hi There! I am an Aspiring Data Analyst 👋
+==========================================
 
+**Hi, My name is Subir. I am a data professional.**:nerd\_face: DATA ANALYSIS TOOLS :nerd\_face:
+=============================================
+
+**I have experience using these data analysis tools.     **[![Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.w3schools.com/)[![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png) ](#)[![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png) ](#)[![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png) ](#)[![Azure](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png) ](#)[![R](https://www.r-project.org/logo/Rlogo.png)](#)
+
+:slightly\_smiling\_face: DATA VISUALIZATION :slightly\_smiling\_face:
+======================================================================
+
+**I have also experience using these data visualization tools.   **[![Matplotlib](https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png)](#)[![](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg) ](#)[![Tableau](https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9) ](#)[![Microsoft Power BI](https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg)](#)
+
+👨 SOCIAL 👩
+============
+
+**Lets connect**
+
+ ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)![](https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white) [![](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:)************
 
 <div align="center"> <h1 align="center"> Hi There! I am an Aspiring Data Analyst 👋 </h1> </div>
 <b>Hi, My name is Subir. I am a data professional. <b>
 
 <p>
-  I am an aspiring Data Analyst, I bring a combination of analytical skills, technical proficiency, and a passion for translating data into actionable insights. I am currently studying Digital Skills Bootcamp: Data Technician in which I am doing the following modules:
-•	Introduction to Database
-•	Data Architecture Governance
-•	Data Analysis using MS Excel
-•	Introduction to Data Visualisation with MS Excel Tableau and Power BI
-•	Data Analytics – Power BI
-•	Data, Big Data and Data Structures
-•	Azure Fundamentals - Module 1- core data concepts- Software SAAS, Cloud
-•	Azure Fundamentals - Module 2- relational data in Azure (DB)
-•	Azure Fundamentals - Module 3- Non -relational data in Azure
-•	Azure Fundamentals - Module 4- Fundamentals of data analytics
-•	Data Analysis via Python programming- Utilising Pandas
-•	Introduction using R analytical - Data cleaning and EDA with R Studio and R programming.
-
+I am an aspiring Data Analyst, I bring a combination of analytical skills, technical proficiency, and a passion for translating data into actionable insights. I am currently studying Digital Skills Bootcamp: Data Technician.
 Here are several reasons why I am well-suited for a Data Analyst role:
 1.	Analytical Skills: I possess a foundation in statistical analysis and data interpretation. My ability to analyse datasets allows me to identify trends, patterns, and outliers, enabling informed decision-making
 2.	Technical Skills: I am capable in a variety of data analysis tools and programming languages, including but not limited to Python, R and SQL. My technical skills extend to data visualization tools such as Tableau, Microsoft Power BI and Microsoft Excel ensuring I can effectively communicate findings to stakeholders.
