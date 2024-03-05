@@ -23,7 +23,7 @@
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9" alt="Tableau" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://en.wikipedia.org/wiki/Tableau_Software#/media/File:Tableau_logo.svg" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
 
