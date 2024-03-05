@@ -31,15 +31,15 @@
 <b>Lets connect</b>
 <p align="center">
 
-<a href="">
+<a href="https://www.linkedin.com/in/subir-kumar-roy/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="">
+<a href="https://public.tableau.com/app/profile/subir.kumar.roy/vizzes">
   <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
 
-<a href="mailto:">  
+<a href="mailto:subrroy73@googlemail.com">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
 </a>
 
