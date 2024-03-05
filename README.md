@@ -2,39 +2,6 @@
 <b>Hi, My name is Subir. I am a data professional. <b>
 
 <p>
-I am an aspiring Data Analyst, I bring a combination of analytical skills, technical proficiency, and a passion for translating data into actionable insights. I am currently studying Digital Skills Bootcamp: Data Technician.
-Here are several reasons why I am well-suited for a Data Analyst role:
-Analytical Skills: 
-I possess a foundation in statistical analysis and data interpretation. My ability to analyse datasets allows me to identify trends, patterns, and outliers, enabling informed decision-making
-
-Technical Skills:
-I am capable in a variety of data analysis tools and programming languages, including but not limited to Python, R and SQL. My technical skills extend to data visualization tools such as Tableau, Microsoft Power BI and Microsoft Excel ensuring I can effectively communicate findings to stakeholders.
-
-Attention to Detail:
-I pride myself on my careful attention to detail, ensuring data accuracy and reliability in when analysing. I understand attention to detail is crucial in producing reliable insights that can guide strategic business decisions.
-
-Problem-Solving Skills:
-I want to sharpen my on solving more complex problems in real life scenarios. I enjoy the challenge of breaking down data into manageable components, analysing and creating solutions.
-
-Communication Skills:
-I understand the importance of communicating concepts to non-technical people. Whether through presentations, reports, or visualisations, I can bring insights in a clear and understandable manner, and bring better decision-making.
-
-Adaptability and Continuous Learning:
-I understand this field of data analysis is dynamic, and I am committed, eager and passionate in staying current with industry trends, tools, and methodologies. My drive will help me adapt and allow me to learn and apply new technologies, ensuring that my skills remain relevant and valuable.
-
-Business Acumen:
-I approach data analysis with an understanding of its impact on business objectives. I am understanding, my insights can drive strategic decision-making and contribute to the overall success of the organisation.
-
-Collaborative Team Player:
-I really look forward to valuable collaboration with experienced individuals and believe that effective teamwork is essential for successful data-driven outcomes. I am adept at working with cross-functional teams, leveraging diverse perspectives to achieve common goals.
-
-My background in running web design projects as well working in customer service, managing fleets in micromobility, and digital marketing. I believe it has given valuable experience and insights into as career in data analytics. I would like to add I am very approachable, empathetic, good at dealing with conflicts and experienced in leadership roles.
-
-In summary, my combination of analytical ability, technical skills, attention to detail, problem-solving abilities, effective communication, and collaborative mindset make me a good candidate for a Data Analyst role. I am very enthusiastic about contributing to your organisation's data-driven success and testing my skills to extract valuable insights that support strategic decision-making.
-
-
-
-
 </p>
 <div align="center"> <h1 align="center" <di > :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
@@ -125,10 +92,6 @@ If you have any relevant certifications, list them along with the issuing author
 Include your email address or any other preferred method of contact.
 
 - Email: your.email@example.com
-
-## How to Run the Code
-
-Provide instructions on how to run or replicate your data analysis projects. Include any specific dependencies or setup instructions.
 
 ## Feedback
 
