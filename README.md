@@ -1,11 +1,11 @@
 <div align="center"> <h1 align="center"> Hi There! I am an Aspiring Data Analyst 👋 </h1> </div>
-<b>Hi, My name is Subir. I am a data professional. <b>
+<p align="center">Hi, My name is Subir. I am a data professional at the start of my journey (03/2024). <p>
 
 <p>
 </p>
 <div align="center"> <h1 align="center" <di > :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
-<b>I have experience using these data analysis tools.<b>
+<p align="center">Data Analysis Tools:</p>
 <p align="center">
 <a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
@@ -18,7 +18,7 @@
 
 <div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
 
-<b>I have also experience using these data visualization tools.<b>
+<p align="center">Visualisation Tools:</p>
 
 <p align="center">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
@@ -28,14 +28,14 @@
 </p>
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
-<b>Lets connect</b>
+
 <p align="center">
 
-<a href="https://www.linkedin.com/in/subir-kumar-roy/">
+<a href="https://www.linkedin.com/in/skr235235/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://public.tableau.com/app/profile/subir.kumar.roy/vizzes">
+<a href="https://public.tableau.com/app/profile/skr235235/vizzes">
   <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
 
@@ -51,55 +51,66 @@
 
 ## Overview
 
-Provide a brief overview of your repository and its purpose. Mention that it's a portfolio showcasing your data analysis projects.
+Welcome to my data analyst portfolio! This repository serves as a showcase of my journey into the world of data analytics, where I discovered my fascination for the subject, exploring various software, languages, and principles.
 
 ## Projects
 
 List and briefly describe the data analysis projects you've worked on. Include links to each project's folder or relevant files.
 
-1. **[Project 1: Analyzing Sales Trends](project1/README.md)**
-   - Description: Briefly describe the project and its objectives.
-   - Technologies Used: List the tools, languages, and libraries used.
+1. Wealth of Nations Analysis using Excel and Tableau
 
-2. **[Project 2: Exploratory Data Analysis of Customer Behavior](project2/README.md)**
-   - Description: Provide a short summary of the project and its significance.
-   - Technologies Used: Specify the tools and technologies you used.
+   - Description: Delve into the exploration of economic indicators from the "Wealth of Nations" dataset, utilizing the power of Excel for data manipulation and analysis. Further, visualize key insights and trends using Tableau, highlighting the robust capabilities of both tools in extracting meaningful information.
+   - Technologies Used: Excel, Tableau.
+
+
+2. Exploring World Database with SQL Fundamentals
+
+   - Description: Navigate through the vast World Database, employing foundational SQL skills to extract valuable information. This project emphasizes the significance of SQL in data analytics, showcasing its role in efficiently managing and querying large datasets.
+   - Technologies Used: SQL.
+
+
+3. Analyzing Hollywood Movies Data with R Programming and Power BI
+
+   - Description: Embark on a journey into the world of Hollywood movies data, utilizing the statistical prowess of R programming for in-depth analysis. Showcase the visual storytelling abilities of Power BI to present compelling insights, emphasizing the versatility of R and Power BI in the realm of data analytics.
+   - Technologies Used: R Programming, Power BI.
+
+
+These projects collectively represent my diverse skill set, showcasing proficiency in Excel, Tableau, SQL, R programming, and Power BI, providing a comprehensive overview of my capabilities as a data analyst.
 
 ## Skills
 
-Highlight the key skills you possess as a data analyst. This could include programming languages, statistical analysis, data visualization, and any relevant tools.
+Key skills you possess as a data analyst. This could include programming languages, statistical analysis, data visualization, and any relevant tools:
 
-- **Programming Languages:** Python, SQL
-- **Data Analysis:** Pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn
+- **Programming Languages:** SQL, Python - Pandas | NumPy | Matplotlib,  R
+- **Software:** Tableau, Microsoft Power BI
 
 ## Education
 
 Include information about your current academic status, degree pursued, and any relevant coursework.
 
-- **Bachelor of Science in Data Science**
-  - University Name (expected graduation date)
+- **Data Technician Bootcamp**
+- **Bachelor of Science in Information Technology**
+- **Digital Marketing**
 
 ## Certifications
 
-If you have any relevant certifications, list them along with the issuing authority and date.
+COMIGN SOON!
+
+<!--If you have any relevant certifications, list them along with the issuing authority and date.
 
 - **Data Analyst Nanodegree**
-  - Issued by Udacity, Date
+  - Issued by Udacity, Date -->
 
-## Contact Information
+## Contact Information & Feedback
 
 Include your email address or any other preferred method of contact.
 
-- Email: your.email@example.com
-
-## Feedback
-
-Encourage visitors to provide feedback or suggestions. You can include a section for issues or discussions.
+- Email: subirroy73@googlemail.com
+- Provide feedback or suggestions
 
 ## Acknowledgments
 
-If you've collaborated with others or used resources, acknowledge them.
+A huge THANK YOU to Yusuf and Leigh from JustIT for all the support and encouragement (and some handholding) through the process.
 
 ---
 
